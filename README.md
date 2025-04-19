@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malyaban1102
-- 👀 I’m interested in backend engineering
-- 🌱 I’m currently learning java+spring boot
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning spring boot microservices
 - 📫 How to reach me -linkedin -- https://www.linkedin.com/in/malyaban-ganguly-28a881282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
   
 
